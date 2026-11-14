@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.log
+main_backup.py
+index_backup.html
+test_gemini.py
+check_models.py
